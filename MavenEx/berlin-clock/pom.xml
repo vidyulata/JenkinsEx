@@ -75,12 +75,12 @@
 	<repository>
 	<id>deployment</id>
 	<name>Release</name>
-<url>http://13.127.156.31:8081/repository/Jenkins-Rel/</url>
+<url>http://13.127.59.68:8081/repository/Jenkins-Rel/</url>
 	</repository>
 <snapshotRepository>
 	<id>deployment</id>
 	<name>Snapshot</name>
-<url>http://13.127.156.31:8081/repository/Jenkins-Snap/</url>
+<url>http://13.127.59.68:8081/repository/Jenkins-Snap/</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
